@@ -24,7 +24,7 @@ public class Main
 		/**************
 		 * READ INPUT *
 		 **************/
-		BufferedReader reader = new BufferedReader(new FileReader("../PA-A-train.dat"));
+		BufferedReader reader = new BufferedReader(new FileReader("PA-A-train.dat"));
 
 		//do I even need this?
 		int number_of_inputs = 0; 
