@@ -62,7 +62,7 @@ public class Main
 			
 			input_group_one.add(new Group( splited_inputs, splited_labels[0] ));
 		    
-			input_group_two.add(new Group( splited_inputs, splited_labels[0] )); 
+			input_group_two.add(new Group( splited_inputs, splited_labels[1] )); 
 			
 
 		}
